@@ -8,9 +8,9 @@
 
 ## 📝 Overview
 
-The **JavaScript** repository contains a variety of programs for learning and practicing JavaScript programming.  
-It includes programs on **logic building, arithmetic operations, loops, arrays, and general JavaScript concepts**.  
-Each program is **self-contained**, ready to run in any JavaScript environment (Node.js or browser), and designed for **students, beginners, and coding practice**.
+- The **JavaScript** repository contains a variety of programs for learning and practicing JavaScript programming.  
+- It includes programs on **logic building, arithmetic operations, loops, arrays, and general JavaScript concepts**.  
+- Each program is **self-contained**, ready to run in any JavaScript environment (Node.js or browser), and designed for **students, beginners, and coding practice**.
 
 ---
 
@@ -37,5 +37,5 @@ By working through these programs, learners will be able to:
 
 ---
 
-## 📂 Folder / File Structure
+
 
